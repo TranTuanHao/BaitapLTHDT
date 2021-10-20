@@ -1,7 +1,7 @@
 package com.haott2008110116.lab5;
 
 public class Computer {
-    //atribute
+    //attribute
     String NhaSX;
     int NamSX;
     String HDH;//Hệ điều hành

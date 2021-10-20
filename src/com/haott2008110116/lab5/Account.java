@@ -1,7 +1,7 @@
 package com.haott2008110116.lab5;
 
 public class Account {
-    //atribute
+    //attribute
     String Account_Name;
     int Account_Number;
     int Account_Balance;

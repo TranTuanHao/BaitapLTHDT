@@ -9,6 +9,8 @@ public class DogTestDrive {
         Dog dog2 = new Dog("Indo", "vàng", 2);
 
         Dog dog3 = new Dog("China", "Đen", 3);
+        
+        int size = dog3.getSize();
 
         dog.ShowDog();
         dog2.ShowDog();

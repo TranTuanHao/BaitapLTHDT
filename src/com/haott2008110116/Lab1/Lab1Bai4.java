@@ -12,9 +12,9 @@ public class Lab1Bai4 {
         double b = scanner.nextDouble();
         System.out.print("Nhập hệ số c: ");
         double c = scanner.nextDouble();
-
+ 
         double delta = Math.pow(b, 2) - 4 * a * c;
-
+ 
         System.out.println("Căn delta = " + Math.sqrt(delta));
     }
 }

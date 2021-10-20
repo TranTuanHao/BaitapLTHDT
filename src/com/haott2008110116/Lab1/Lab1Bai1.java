@@ -13,7 +13,5 @@ public class Lab1Bai1 {
         System.out.print(hoTen + " " + diemTB + " Điểm");
         System.out.println(hoTen + " " + diemTB + " Điểm");
         System.out.printf("%s %.2f Điểm", hoTen, diemTB);
-    
-
     }
 }

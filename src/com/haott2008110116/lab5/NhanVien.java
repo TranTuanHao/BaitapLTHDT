@@ -1,7 +1,7 @@
 package com.haott2008110116.lab5;
 
 public class NhanVien {
-    //atribute
+    //attribute
     String TenNV;
     int Luong;
     String DiaChi;

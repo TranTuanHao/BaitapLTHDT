@@ -1,7 +1,7 @@
 package com.haott2008110116.lab5;
 
 public class Cow {
-    //atribute
+    //attribute
     double weight;
     //method
     //constructor

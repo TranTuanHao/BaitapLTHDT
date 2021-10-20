@@ -1,7 +1,7 @@
 package com.haott2008110116.lab5;
 
 public class Sach {
-    //atribute
+    //attribute
     String TenSach;
     String NhaXB;
     int NamXB;

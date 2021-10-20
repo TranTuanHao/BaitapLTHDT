@@ -8,9 +8,9 @@ public class Lab1Bai3 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Cạnh của khối lập phương: ");
         double canh = scanner.nextFloat();
-
+ 
         double theTichLP = Math.pow(canh, 3);
-
+ 
         System.out.println("Thể tích của khối CN = " + theTichLP);
     }
 }

@@ -1,11 +1,11 @@
 package vn.edu.giadinh.tuan06;
 
 public class Dog {
-    //atribute
+    //attribute
     String Breed;//biến state
     String Color;//biến state
     int age;//biến state
-    int size;//biến state 
+    int size;
     //method
     //constructor
     Dog(){}
@@ -26,9 +26,7 @@ public class Dog {
         }
     }
 
-    public double getSize(){
+    public int getSize(){
         return size;
-    }
-    public void outPutDog() {
-    }
+    }   
 }
