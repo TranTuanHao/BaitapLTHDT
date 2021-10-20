@@ -1,4 +1,4 @@
-package com.haott2008110116.Lab3;
+package com.haott2008110116.lab3;
 
 import java.util.Scanner;
 

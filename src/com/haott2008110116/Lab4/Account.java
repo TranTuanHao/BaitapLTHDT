@@ -1,4 +1,4 @@
-package com.haott2008110116.Lab4;
+package com.haott2008110116.lab4;
 
 public class Account {
     // attribute thuộc tính - data

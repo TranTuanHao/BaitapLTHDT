@@ -1,4 +1,4 @@
-package com.haott2008110116.Lab3;
+package com.haott2008110116.lab3;
 
 public class Lab3Bai2 {
     public static void main(String[] args) {
