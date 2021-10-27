@@ -5,6 +5,7 @@ public class TestDrive {
         Square hinhVuong = new Square();
         Circle hinhTron = new Circle();
         Triangle hinhTamGiac = new Triangle();
+        Amoeba hinhAmoeba = new Amoeba(5, 10);
 
         hinhVuong.xoay();
         hinhVuong.playSoud();
@@ -14,5 +15,8 @@ public class TestDrive {
 
         hinhTamGiac.xoay();
         hinhTamGiac.playSoud();
+
+        hinhAmoeba.xoay();
+        hinhAmoeba.playSoud();
     }
 }
