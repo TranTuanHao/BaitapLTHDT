@@ -7,6 +7,18 @@ public class Animal {
     private String boundaries;
     private int location;
 
+	public void setPicture(String picture) {
+		this.picture = picture;
+	}
+
+	public String getPicture() {
+		return picture;
+	}
+
+	public Animal(String p){
+		picture = p;
+	}
+
     protected void makeNoise(){
 		System.out.println("Tiếng kêu bình thường");
 	}

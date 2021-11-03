@@ -4,10 +4,10 @@ public class Amoeba extends Shape{
     private int x;
     private int y;
 
-    Amoeba(String amThanh, int xx, int yy){
-        sound = amThanh;
-        x = xx;
-        y = yy;
+    public Amoeba(String s, int x, int y){
+        super(s);
+        this.x = x;
+        this.y = y;
     }
     
     protected void rotate(){
@@ -15,6 +15,6 @@ public class Amoeba extends Shape{
     }
 
     protected void playSoud(){
-        System.out.println("Phát file âm thanh: " + sound);
+        System.out.println("Phát file âm thanh: " + getSound());
     }
 }
